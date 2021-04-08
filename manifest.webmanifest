@@ -14,23 +14,6 @@
   "name": "Book Sharing",
   "scope": "https://qrmf.github.io/books/",
   "short_name": "Books",
-  "shortcuts" : [
-    {
-      "name": "Open A03",
-      "short_name": "AO3",
-      "url": "https://archiveofourown.org/"
-    },
-    {
-      "name": "Open FFN",
-      "short_name": "FFN",
-      "url": "https://fanfiction.net/"
-    },
-    {
-      "name": "Open Wattpad",
-      "short_name": "Wattpad",
-      "url": "https://wattpad.com/"
-    }
-  ],
   "start_url": "https://qrmf.github.io/books",
-  "theme_color": "#000000"
+  "theme_color": "#6200ee"
 }
