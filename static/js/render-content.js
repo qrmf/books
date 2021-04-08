@@ -70,14 +70,14 @@ const createBookListItem = (bookObject) => {
     // Edit Click events for Dialog buttons
     dialog.buttons[0].onclick = () => {
       //@debug
-      console.info(`DEBUG: Opening book ID: ${bookObject.id} (${bookObject.downloadLink})`);
-      location.assign(bookObject.downloadLink);
+      console.info(`DEBUG: Opening book ID: ${bookObject.id} (${bookObject.link})`);
+      location.assign(bookObject.link);
     }
     dialog.buttons[1].onclick = dialog.close;
 
     // Open Dialog
     //@debug
-    console.info(`DEBUG: Open download dialog for book ID: ${bookObject.id}`);
+    console.info(`DEBUG: Open dialog for book ID: ${bookObject.id}`);
     dialog.open();
   }
 }

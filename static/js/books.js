@@ -21,21 +21,21 @@ window.books = [
     author: 'Shivani',
     blurb: 'Slash, HPBZ - It wasn\'t just power and ability that Tom Riddle transferred to Harry that night. He made him the son he never had, and that changes everything.',
     // INFO: will be updated to a download link once FanFicFare starts to work again
-    downloadLink: 'https://www.fanfiction.net/s/1840111'
+    link: 'https://www.fanfiction.net/s/1840111'
   },
   {
     id: 'AO3-21584935',
     title: 'to leap and love the fall',
     author: 'stranglerfig',
     blurb: 'The centaur tilted his head. “And what is a human boy doing riding a thestral into the Forest?”\n“I’m going to visit a friend. Well, a friend of a friend. Sort of. It’s a snake in the castle.”\n\nIn which Harry meets a garden snake, discovers magic, and sets off for a better life.',
-    downloadLink: 'https://archiveofourown.org/downloads/21584935/to%20leap%20and%20love%20the.epub?updated_at=1617672300'
+    link: 'https://archiveofourown.org/downloads/21584935'
   },
   {
     id: 'AO3-19707637',
     title: 'The Venom Peddler',
     author: 'lightningfury',
     blurb: 'Curiosity killed the cat, satisfaction brought it back. Harry\'s curiosity leads him to exploring the Chamber a bit more thoroughly before he leaves for the Summer. What he finds there gives him a new responsibility beyond just himself and a lifelong satisfaction in the choices he makes from there on.',
-    downloadLink: 'https://archiveofourown.org/works/19707637'
+    link: 'https://archiveofourown.org/works/19707637'
   },
 
 ];
