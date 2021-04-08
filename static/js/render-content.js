@@ -73,7 +73,6 @@ const createBookListItem = (bookObject) => {
       console.info(`DEBUG: Opening book ID: ${bookObject.id} (${bookObject.link})`);
       location.assign(bookObject.link);
     }
-    dialog.buttons[1].onclick = dialog.close;
 
     // Open Dialog
     //@debug
