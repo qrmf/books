@@ -30,5 +30,12 @@ window.books = [
     blurb: 'The centaur tilted his head. “And what is a human boy doing riding a thestral into the Forest?”\n“I’m going to visit a friend. Well, a friend of a friend. Sort of. It’s a snake in the castle.”\n\nIn which Harry meets a garden snake, discovers magic, and sets off for a better life.',
     downloadLink: 'https://archiveofourown.org/downloads/21584935/to%20leap%20and%20love%20the.epub?updated_at=1617672300'
   },
+  {
+    id: 'AO3-19707637',
+    title: 'The Venom Peddler',
+    author: 'lightningfury',
+    blurb: 'Curiosity killed the cat, satisfaction brought it back. Harry\'s curiosity leads him to exploring the Chamber a bit more thoroughly before he leaves for the Summer. What he finds there gives him a new responsibility beyond just himself and a lifelong satisfaction in the choices he makes from there on.',
+    downloadLink: 'https://archiveofourown.org/works/19707637'
+  },
 
 ];
