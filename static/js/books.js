@@ -39,5 +39,13 @@ window.books = [
     link: 'https://archiveofourown.org/works/19707637',
     platform: 'Archive Of Our Own'
   },
+  {
+    id: 'AO3-12006417',
+    title: 'survival is a talent',
+    author: 'ShanaStoryteller',
+    blurb: 'In the middle of their second year, Draco and Harry discover they\'re soulmates and do their best to keep it a secret from everyone.\nTheir best isn\'t perfect.\n\n“Are you trying to get killed, Potter?” Malfoy drawls, stalking forward. Quick as a serpent himself, he reaches out and grabs the snake just below the head. It thrashes in his grip, but is no longer able to bite anyone. “This is a poisonous snake, and I doubt anyone brought a bezoar with them.”\nHarry glares. He opens his mouth, and feels the beginning the snake’s language pass his lips, and this isn’t what he wants, what’s the point of insulting Malfoy if he can’t understand him –\nMalfoy’s eyes widen. He slaps his hand over Harry’s mouth, “Potter, what the hell–”'
+    link: 'https://archiveofourown.org/works/12006417',
+    platform: 'Archive Of Our Own'
+  }
 
 ];
