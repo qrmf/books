@@ -28,7 +28,7 @@ window.books = [
     title: 'to leap and love the fall',
     author: 'stranglerfig',
     blurb: 'The centaur tilted his head. “And what is a human boy doing riding a thestral into the Forest?”\n“I’m going to visit a friend. Well, a friend of a friend. Sort of. It’s a snake in the castle.”\n\nIn which Harry meets a garden snake, discovers magic, and sets off for a better life.',
-    link: 'https://archiveofourown.org/downloads/21584935',
+    link: 'https://archiveofourown.org/works/21584935',
     platform: 'Archive Of Our Own'
   },
   {
