@@ -1,0 +1,96 @@
+commit 30752e64e051fdc359439c00be0aa4f5eaf2ca9b
+Author: Alexander McDonald <qrmf.dev@outlook.com>
+Date:   Thu Apr 8 03:42:00 2021 +0100
+
+    chore: fix typo
+
+commit d49289bc033dd80c56ce7ca69cd0d801111c7169
+Author: Alexander McDonald <qrmf.dev@outlook.com>
+Date:   Thu Apr 8 03:41:28 2021 +0100
+
+    book: Add AO3-12006417
+
+commit d754bf41029c4513ae527db1f03e755a4c8c4583
+Author: Alexander McDonald <qrmf.dev@outlook.com>
+Date:   Thu Apr 8 03:37:22 2021 +0100
+
+    chore: Reference GitHub page
+
+commit 7660e639a8cf61d0bf627f97b7cb14e3e91ea67a
+Author: Alexander McDonald <qrmf.dev@outlook.com>
+Date:   Thu Apr 8 03:00:41 2021 +0100
+
+    chore: Fix close button for read book popup
+
+commit b5b49d614ae17800e012e4fbf5d2ee0a4de7acf8
+Author: Alexander McDonald <qrmf.dev@outlook.com>
+Date:   Thu Apr 8 02:58:12 2021 +0100
+
+    chore: Fix link for AO3-21584935
+
+commit 995d33020511a562e562ca9e513fbf1d1ad8438b
+Author: Alexander McDonald <qrmf.dev@outlook.com>
+Date:   Thu Apr 8 02:53:11 2021 +0100
+
+    chore: Add `platform` value to book object
+
+commit 17c2a80300e96713dcf441eeb066ab42a39a2d92
+Author: Alexander McDonald <qrmf.dev@outlook.com>
+Date:   Thu Apr 8 02:40:09 2021 +0100
+
+    chore: Remove all references to downloading and fix webmanifest
+
+commit 17b7c79e448f4367851f04a67645d7a1ab3f2653
+Author: Alexander McDonald <qrmf.dev@outlook.com>
+Date:   Thu Apr 8 02:31:59 2021 +0100
+
+    book: Add AO3-19707637
+
+commit 2f873d9c5fc3cdb91d36a85ac09f86153adf7af6
+Author: Alexander McDonald <qrmf.dev@outlook.com>
+Date:   Thu Apr 8 02:29:12 2021 +0100
+
+    book: Add AO3-21584935
+
+commit 3fd5cab00b7a4a401364d5397cdb8e4463323e8b
+Merge: 43de213 2cc5312
+Author: Alex McDonald <qrmf.dev@outlook.com>
+Date:   Tue Apr 6 01:59:05 2021 +0100
+
+    Merge branch 'main' of github.com:qrmf/books into main
+
+commit 43de213a0701648921a29d8d5f623bb208a3e126
+Author: Alex McDonald <qrmf.dev@outlook.com>
+Date:   Tue Apr 6 01:58:33 2021 +0100
+
+    chore: add license disclaimer to books.js
+
+commit 2cc5312b709f13b1624864767688e28194dc3fe8
+Author: Alexander McDonald <qrmf.dev@outlook.com>
+Date:   Tue Apr 6 01:55:31 2021 +0100
+
+    chore: Add link to live site in readme
+
+commit 90e4d890c9c7480e19ed30ba6817273d94175821
+Author: Alex McDonald <qrmf.dev@outlook.com>
+Date:   Tue Apr 6 01:53:39 2021 +0100
+
+    chore: Add license disclaimer to all files
+
+commit 19e1858a7bd19d5bf65e8fb406639331904f26e4
+Author: Alex McDonald <qrmf.dev@outlook.com>
+Date:   Tue Apr 6 01:49:42 2021 +0100
+
+    chore: add LICENSE.txt and README.md
+
+commit bf46e0bb34b7a5fed77950fdf8c851b911754de2
+Author: Alex McDonald <qrmf.dev@outlook.com>
+Date:   Tue Apr 6 01:40:02 2021 +0100
+
+    issue: fix #1
+
+commit 0472705e986faef02a1b9d983ca7577120590bf9
+Author: Alex McDonald <qrmf.dev@outlook.com>
+Date:   Tue Apr 6 01:26:10 2021 +0100
+
+    🎉 Initial commit
