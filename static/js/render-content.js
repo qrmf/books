@@ -45,7 +45,7 @@ const createBookListItem = (bookObject) => {
 
   // Secondary Text Span Element
   secondaryTextSpan.classList = 'mdc-list-item__secondary-text';
-  secondaryTextSpan.innerText = `by ${bookObject.author}${bookObject.platform ? ` on ${bookObject.platform}` : ''}`;
+  secondaryTextSpan.innerText = `by ${bookObject.author}${bookObject.platform ? ` on ${bookObject.platform}` : ''}${bookObject.fandom ? ` in ${bookObject.fandom}` : ''}`;
 
   // Create Hierarchy
   //@debug
